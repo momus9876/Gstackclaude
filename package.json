@@ -1,0 +1,16 @@
+{
+  "name": "gstackclaude",
+  "version": "1.0.0",
+  "description": "GStack setup for Claude Code",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "setup": "bash setup"
+  },
+  "devDependencies": {
+    "@anthropic-ai/sdk": "^0.78.0"
+  },
+  "engines": {
+    "bun": ">=1.0.0"
+  }
+}
